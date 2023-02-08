@@ -1,0 +1,6 @@
+[submodule "agile_snails_coding_challenge"]
+	path = agile_snails_coding_challenge
+	url = https://github.com/CDT-AIMLAC/agile_snails_coding_challenge
+[submodule "team_7564616d_models"]
+	path = team_7564616d_models
+	url = https://github.com/CDT-AIMLAC/team_7564616d_models
