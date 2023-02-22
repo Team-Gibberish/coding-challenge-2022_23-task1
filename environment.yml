@@ -16,6 +16,7 @@ dependencies:
   - dnspython
   - scipy
   - scikit-learn
+  - mysql-connector-python
   - pip:
     - pytest-coverage
     - build
@@ -25,7 +26,6 @@ dependencies:
     - Flask
     - Flask-Cors
     - gunicorn
-    - mariadb
     - pvlib
     - pydash
     - python-dotenv
